@@ -1,0 +1,10 @@
+filelock==3.18.0
+gymnasium==1.0.0
+jax==0.4.34
+matplotlib==3.10.1
+numpy==2.0.2
+optax==0.2.4
+PennyLane==0.40.0
+sbx_rl==0.20.0
+scikit_learn==1.6.1
+stable_baselines3==2.5.0

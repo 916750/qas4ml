@@ -1,0 +1,4015 @@
+{
+    "circuit_1": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715114709241,
+            0.6948674742952246,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "c35e7201064d8c198c3e09c9910ebf46953db4eb92540e78a0ec06d3166fb956"
+    },
+    "circuit_2": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.07861913959280285,
+            0.9643263881300826,
+            -0.6544467607626441
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "56b915e11844a05f818f09ba08948f92a215532cd11172ea01f29c6432e971c4"
+    },
+    "circuit_3": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715115742175,
+            0.5855256965074417,
+            0.6355298392561777
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "d27cb7d39691fe62f44f9ecbea0275b46606c6a3fb8b12988129f5dfa3d9cc05"
+    },
+    "circuit_4": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.2720922533685486,
+            1.1350771612616117,
+            -0.7772847257952435
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "a9caf55882a3adceb1bae305cd0ae37f6fc51fe8c73b9a9041ec690041c1c421"
+    },
+    "circuit_5": {
+        "circuit": [
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.08240220002612735,
+            0.8566136516194768,
+            0.03003593625294585,
+            -0.4898619485974983,
+            0.5505381017101189
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "9d5451696de107e544fdda669f8e1e868fc0c72d5dc1c2413aeb69bba35043c1"
+    },
+    "circuit_6": {
+        "circuit": [
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.549870231743834
+        ],
+        "gates": 1,
+        "circuit_depth": 1,
+        "reward": 104.55,
+        "accuracy": 1.0,
+        "hash": "fef5280f23157feac12dc78de1ba613036707ed766249bb37a55c7c17d7c96f4"
+    },
+    "circuit_7": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.39928366918306424,
+            0.3641922035391352,
+            0.8176702549257847
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "6ae8aa506f61e9849276decaec42be7b53fec658748479648171ed2fa30d44f9"
+    },
+    "circuit_8": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116941895,
+            0.7246979830374457
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "94c52d8daef2292060b7b5b3fcc11e25553cdf0d1152104433e527c4a7a83062"
+    },
+    "circuit_9": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7670028387647327,
+            0.6948674750635294,
+            0.5275492375913621,
+            0.5447809466179978
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "cf0d24f292bfcdf457bd03288b8717c9eedddff9422d265e588cee917adb3a3f"
+    },
+    "circuit_10": {
+        "circuit": [
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118307087,
+            0.7048674721532243
+        ],
+        "gates": 2,
+        "circuit_depth": 1,
+        "reward": 104.525,
+        "accuracy": 1.0,
+        "hash": "95923951bf81e4c49abb3018fdcec9b75e1dfcdefbb58536cc16efd9a817567c"
+    },
+    "circuit_11": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.2720922533685486,
+            1.1350771612616117,
+            -0.7772847257952435
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "b7175bcb837a1a83f8cdb64cee406abe13476c686f2574824231b594baa9e6c1"
+    },
+    "circuit_12": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715096599355,
+            0.6948674748168486,
+            0.527549237303347,
+            0.7216047491262356
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "b09834c1dbbdf5ad2819bb1964e2dcd62f8ad96c346a9d413ed5a0a2f5a0f800"
+    },
+    "circuit_13": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RX (1, 0)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            1.0337581523317125,
+            0.8956549739392006,
+            -2.488629046535345,
+            -1.0553851915061625
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "3a6d840466d3163b0e1dd59b2c1551e5017a8dc5da188dffcd380bd4c0269ef5"
+    },
+    "circuit_14": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5928823174075846,
+            0.8157517085750778
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "b207d0c987c2d97170555eef74223872b84770184b7b08d64921c88970f81300"
+    },
+    "circuit_15": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.6819380830032519,
+            2.0851677267610533,
+            -0.708338200752882
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "318e47cdfdda63e74a2ed1c55c877c2848d87dd6c8f2c947530a936e7ebe8f95"
+    },
+    "circuit_16": {
+        "circuit": [
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715126774215,
+            0.7048674705226693
+        ],
+        "gates": 2,
+        "circuit_depth": 2,
+        "reward": 104.5,
+        "accuracy": 1.0,
+        "hash": "54efc95b26380179c5794afe7bc2fa94e63f6fc96f22d8903ef4b929ca0cfc2b"
+    },
+    "circuit_17": {
+        "circuit": [
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116291479,
+            0.6948674737653621,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "ddc809f7e33016969c88788ae41c1a9b0a7c3c0ad4af7e3e9c9f43747a4bc692"
+    },
+    "circuit_18": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118307406,
+            0.7048674721532243
+        ],
+        "gates": 2,
+        "circuit_depth": 1,
+        "reward": 104.525,
+        "accuracy": 1.0,
+        "hash": "6913d48e696a3d5424695c8264d7b74073f93a98d32fc2f1ea6be7d6a5c5c190"
+    },
+    "circuit_19": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715126575001,
+            0.7048674724028209
+        ],
+        "gates": 2,
+        "circuit_depth": 2,
+        "reward": 104.5,
+        "accuracy": 1.0,
+        "hash": "352d9aa9bb5ae6546194599782444ea1b9dbae1a745e374161fcc918658e1820"
+    },
+    "circuit_20": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715128846853,
+            0.6948674744380215,
+            -0.008891415475782666,
+            -0.4898619474813277,
+            0.5502356712456082
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "0beaad6670f604c4be6daae2ec9d2372364a19793a7569fbf296a7e07390995e"
+    },
+    "circuit_21": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5928823174075846,
+            0.8157517085750778
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "c31de20754c4d0558e261f36d690df01b4752c4c63801cee2ab053d981d51bec"
+    },
+    "circuit_22": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -1.6892627387132853,
+            1.654852270551644
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "228a53b56c62dbea914db2ad854b2e1af52fb70011897a842bede0acd62f3cd9"
+    },
+    "circuit_23": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4520368669861847,
+            0.6948674741098697,
+            0.7769014655227854
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "8f6c3d3db78a0c505164b50d503ea5d047cef06a95538eff124d0d816756a4e7"
+    },
+    "circuit_24": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.612073963724294,
+            0.6948674731965886,
+            0.6449653750600666
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "0b1731b5e4665257585eaa09aa23136eb52641e6e270e5ee08a2545609030481"
+    },
+    "circuit_25": {
+        "circuit": [
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116641753,
+            0.7048674721532243
+        ],
+        "gates": 2,
+        "circuit_depth": 1,
+        "reward": 104.525,
+        "accuracy": 1.0,
+        "hash": "8ee24fd7d3daa6eee680f234b124033f0cdc16266357202825ee4eb35f8e74eb"
+    },
+    "circuit_26": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715123044916,
+            0.4252131419028313,
+            0.7707585265307135
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "7694eae9b6cf108e755d0c943c1cead5c85a874f3bdbad1e8cae6031d1aa04f2"
+    },
+    "circuit_27": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7612551099064372,
+            0.7247463808815966
+        ],
+        "gates": 2,
+        "circuit_depth": 2,
+        "reward": 104.5,
+        "accuracy": 1.0,
+        "hash": "8a991db131a83b876b9349fe565131f32cececbd92c2f0b3d4fc5ccb740bebc7"
+    },
+    "circuit_28": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -2.4897337771549943,
+            0.9916872111110917
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "e320e0a24ce5441a8a5b36ca4eaa36facb690afc8b8d1fd5c38f8bf1217fbeca"
+    },
+    "circuit_29": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.9272286818790263,
+            0.8367782470761755
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "4c0a46828948c651a89899e5d865607b7ea286868de3b49c79bbd3c38815ee3e"
+    },
+    "circuit_30": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.7208944128741227
+        ],
+        "gates": 2,
+        "circuit_depth": 2,
+        "reward": 104.5,
+        "accuracy": 1.0,
+        "hash": "88eaab2f6a1a5fc528ee5fb921a6623105d074ae0696ad753c27ef5ee21cc423"
+    },
+    "circuit_31": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715123944938,
+            0.1387508737303765,
+            0.3087785477400745,
+            0.5555297687088087
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "bd1abf1d4bb60bd68a55132431bab567d5972d420a34ac0e5a62eefcaee50633"
+    },
+    "circuit_32": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715121141992,
+            0.6948674727295406,
+            0.4329737687563965,
+            0.5948580240114305
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "1bf4031fbd23050d8d0b9c521f50c645b65ebe45837b1d1fc29b5814bceafb8e"
+    },
+    "circuit_33": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.5634107717078616,
+            0.24537957568648328,
+            1.2280286699587157,
+            -0.4898619485636702,
+            0.7650084463831324
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "1b5e7b4fcb986abb8ce4cb2d0b3ff3b214e5d39b71358517162bc58d5d529c4b"
+    },
+    "circuit_34": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715115481399,
+            0.6948674739364493,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "e76a7d460c82b6766a7ffd47f8c34239c1e3d18e29a1d61f8ebe93a02233e52a"
+    },
+    "circuit_35": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7131951103875833,
+            0.08845845059636506,
+            0.474176981180219
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "9bb1ea6ab9d43283b00f9eb1ba9a1e4ebcc43be52a69210f1a8b37da69042381"
+    },
+    "circuit_36": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271512023912,
+            0.694867473373573,
+            0.5275492367129258,
+            -0.48986194915700654,
+            0.5510037682800452
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "874d0930ef6aa22ff4082fa6a0f94c4028399542a82cfbe1c94c86b4387f0cf1"
+    },
+    "circuit_37": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.721271512810348,
+            0.6948674738021958,
+            0.5375492372134435
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "41095e007b6d51068f769a9fddaeee73a73f74071a9e2eca942d1451c46e1b1b"
+    },
+    "circuit_38": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715124843654,
+            0.6948674739996181,
+            0.7208884962040175
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "271daabc82853780850a182e76b17e6b6187519db11a3c8056b9ddfee6ef72fc"
+    },
+    "circuit_39": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685442344719,
+            0.8956549743288197,
+            0.3207820073989877
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "1bf639c9135b4d6b9531adf4240e374d2f683e51c634b13d6bf389f165b4c3d5"
+    },
+    "circuit_40": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5835813917248143,
+            0.6948674728579494,
+            0.527549237842153,
+            0.6364498371839229
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "ace7d849ed1d5e6ea18cd0637ee7c0d8abd9fa47ba53de60ca7d61e367177c99"
+    },
+    "circuit_41": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117196864,
+            0.684867474989813,
+            0.5375492372340699
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "4ccd5b49a99d0c8ea4562fddfaecbd7d792e715f008e7a23c18e8fc272e4011b"
+    },
+    "circuit_42": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.365094120571594,
+            0.3340100922218324,
+            0.8302661796968214
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "a5030b09b60e027ff43f7ac01419de4b933c02f0b2e1729c8fe57572fb5c67bb"
+    },
+    "circuit_43": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.602864269465838,
+            0.567178581560196,
+            0.6556035539267786
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "e94985fb78fc93a6f17d56bc2cb4a3bbcc92caf8a997cc9cc0b42a2bae11e617"
+    },
+    "circuit_44": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715110119395,
+            1.0571524630297833,
+            -0.7921353018557742
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "349da74fcb32f62356582f54578d39278ca501e81d1f434ab095bda64d6ae268"
+    },
+    "circuit_45": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.8799545248609565,
+            0.6948674738270363,
+            0.6727343749280005
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "85d985e787182df78e1a86fc9519234fdcc16ab8cf962bbfff3b83bfa18e1430"
+    },
+    "circuit_46": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.917762842605328,
+            0.841022896785174
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "4198f54a75912d2761b298304739f0402cedfd4d3ae6b55a9f984d21f17d1d6e"
+    },
+    "circuit_47": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.45581605063201036,
+            0.42706683630868447,
+            0.8000122818706081
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "9ab9dc9752fbf5d2284da03d2482bd4cbb1c548c8b73edbcde618cc8ed0f2b29"
+    },
+    "circuit_48": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.0479443535674635,
+            0.6948674751917469,
+            0.7983761034383215
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "7e64ba59f439f64d41e550f5c4671a7b90b0a2626688159443927f2cf63ae550"
+    },
+    "circuit_49": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5928823174075846,
+            0.8157517085750778
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "380df94ca0ed2884d00ff5502645336700f30fc0a85b83157601f64cbd3375bd"
+    },
+    "circuit_50": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.3233572134362272
+        ],
+        "gates": 2,
+        "circuit_depth": 2,
+        "reward": 104.5,
+        "accuracy": 1.0,
+        "hash": "56218baf9ddb0da797f8f57ebd7eeb328bc1523527528a7aee53ccacf3551376"
+    },
+    "circuit_51": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5240707450438715,
+            0.32868133704839114
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "6287828b49b864e2cafa044a98a1d00227a3def5c8cec1523e23afbe0eee905b"
+    },
+    "circuit_52": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118374358,
+            0.5855256965074417,
+            0.6355298392561778
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "2f72b6961f1ac21141ecd96fb4b72b4735411e5bb80f764d50e99fa07b1e44bb"
+    },
+    "circuit_53": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6415295835335526,
+            0.6948674738905647,
+            0.6163821042585063
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "f0d79511f4de7f52f7f733d3cff83f2dae2c3ffd49c06e9530cd018c684a7ea1"
+    },
+    "circuit_54": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4520368669861847,
+            0.6948674739895903,
+            0.7769014655227854
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "47be91e04ed964f02bce64c37eae8f443999d93794154b1856e71150877883e4"
+    },
+    "circuit_55": {
+        "circuit": [
+            "RX (0, 1)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.3938616297764418,
+            0.6948674738041888,
+            0.5275492363268222,
+            0.5135885103726935
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "43a98f6cceae6bb1353d1cee5a17f45d37de8a8f3718106037ba85dcc017a362"
+    },
+    "circuit_56": {
+        "circuit": [
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271511882863,
+            0.6948674735187014,
+            0.5275492382339345,
+            -0.48986194849300496,
+            0.5510037682800452
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "a99284d4787faa92a0490f11daf7ffa08e460833f6d5ab9cf317fd54189a39fe"
+    },
+    "circuit_57": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.45581605063201036,
+            0.42706683630868447,
+            0.8000122818706081
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "1a1946f9074a9d1bdd44da715422918df9519e3b78899773c12e2fba5598b678"
+    },
+    "circuit_58": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715112214676,
+            0.6948674730401455,
+            0.527549237680184,
+            -0.9052537516650887,
+            0.40853939242704396
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "ce93a91736bd7f68a32a352d8df9c4d8fc853e8c52e6fac17ac5f79d575ca48f"
+    },
+    "circuit_59": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715110588385,
+            0.11963189625442522,
+            -0.048710468140387285,
+            -0.48986194798725813,
+            0.5486040576738717
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "ea9c26d79060503a83dc73fc978da6bc9b5c139c49a64c0c15a5dddfe6862fae"
+    },
+    "circuit_60": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715127300725,
+            0.07977825548192953,
+            0.5275492370173347,
+            0.7210742809903619
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "4c2bcdd4f43377e0bf7432ca0ded67046a39cc667e30b528d0b07723f4bd8518"
+    },
+    "circuit_61": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.023060223563701118,
+            0.6674154162748672,
+            -0.4879655566983485
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "b68a5cf8294f720b354d43b2c569c61ea5740cf53cc0b5beda67f0beb6555b47"
+    },
+    "circuit_62": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.02306022356370095,
+            0.667415416274867,
+            -0.4879655566983484
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "34e6921d8f14747494d226e9cae33fe7c6910779c065300acfe82002d5158ba6"
+    },
+    "circuit_63": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.06653809429181506,
+            0.8599331845276034,
+            1.210891549923737,
+            -0.4898619479020226,
+            -0.5810836678971506
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "53a8306fd6f99636334f128f8e2a5fef25047af18e8e8e3affce3eceb6e88064"
+    },
+    "circuit_64": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715123652447,
+            0.16139270227972652,
+            0.5275492379910137,
+            -0.489861948068641,
+            -0.009129827042458277,
+            0.5457438233345075
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "ebdd94369a1711a6ee6d32e930b6060a081c7879c0cf8e26e8e657b850c54feb"
+    },
+    "circuit_65": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.07881638556119744,
+            0.6948674748147287,
+            0.5275492376744287,
+            0.7199254462697897
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "a3c4b8c8afd66fe53931ba525e782427a2d3b20f0e193de9cb66f9f22fc5f6b2"
+    },
+    "circuit_66": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.5325794150307823,
+            0.6948674750527468,
+            0.5275492382078327,
+            -0.4898619486262569,
+            0.7225210430502255
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "00a61a3a932a3b6acef60299f046e8e8a897740e92bb03405144b5d7820bb8ca"
+    },
+    "circuit_67": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6176442443855962,
+            0.8094381081778416,
+            0.41382504197582193,
+            0.6479290544013186
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "17a9ba63d63988e52d27491e84a02bd19da0ebc73e0ff220f5fadee34d6488f0"
+    },
+    "circuit_68": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.02907141512376511,
+            1.3978303249617745,
+            0.527549237879173,
+            -0.48986194935104943,
+            -0.7165777324326904
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "06962dfc8a89d72749cafe6ea5afdff9eff2b4f03347135e4962e5d73507c78b"
+    },
+    "circuit_69": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.4471317451436866,
+            0.6948674742021902,
+            0.811821179521224,
+            -0.6700753249496036
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "c7ff2365525229a49ed604f5924d6d27ad705a2fc8ae3e0ee8f312bf5eb90d80"
+    },
+    "circuit_70": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715120387936,
+            0.13875087373037662,
+            0.3087785477400746,
+            0.5555297687088087
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "2808790b7187420362e9dfb730561eb9ac810d947cdd059fb59ac71bf19db14c"
+    },
+    "circuit_71": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.2880319285407578,
+            0.31144706389732346
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "fac8020c2c644dc0d4d2fa01305340f3403d7bd31c9cfc41e2ba86a92e880aae"
+    },
+    "circuit_72": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715122215899,
+            0.6948674739314848,
+            0.7734786670429962,
+            -0.7228685296325142
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "0a0f7c2b7f53bfb23f343e4646b48e6d3815561b760524cad5c04ff96810cce4"
+    },
+    "circuit_73": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715128762127,
+            0.704867470067715
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "d48ab915ce1335b342752d20a02e326095e73b98ebe8a777d50e45418cf9a76f"
+    },
+    "circuit_74": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.45328967159741756,
+            0.7870137547493662,
+            0.5275492369246463,
+            0.46777826495166835
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "a6edab56dac2ca793463923cd14eef201241e98b56ea695d807afa69ee4c4cc2"
+    },
+    "circuit_75": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4520368669861847,
+            0.694867473434909,
+            0.7769014655227854
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "ad08d3b10b4ef0e827266e96df5dc020c6f883641cb158d80c9ad548dbda43f8"
+    },
+    "circuit_76": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.3728881217460211,
+            0.6948674725841474,
+            0.5275492368956946,
+            0.75827249106319
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "8b81b34e425fbb8f6e1d339b4b217b0c4003b91e6c8244f422644bbfe887148c"
+    },
+    "circuit_77": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.11310291408073142,
+            0.7995348013387078
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "42f4da0c532ab333867beeaebb2c951383ad1a5837b9b14569a16cbd06ef2c53"
+    },
+    "circuit_78": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.3728881217460209,
+            0.6948674727477488,
+            0.5275492369950074,
+            0.75827249106319
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "90cef9e0b4bad1ebe5ebf8a3991e489b69ca34fc10873d9bc9be1060342fa546"
+    },
+    "circuit_79": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715119390949,
+            0.7246979830374457
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "325c20e5394899454e302b636e19bf5fa462b475b5b005102391b9df2b23c7ed"
+    },
+    "circuit_80": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5240707458523873,
+            0.32868133704839114
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "a767f0bfbdd4df8735063142f83eb1acfea02018b27ea3872de6d1b129581d0f"
+    },
+    "circuit_81": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7805856926439636,
+            0.7839546996760983,
+            0.6886395658952256
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.41666666865349,
+        "accuracy": 1.0,
+        "hash": "eb735da539ab1e8d125376ca36fd5a571b6a35605913a4bb38c82244bdff3af5"
+    },
+    "circuit_82": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116086641,
+            0.684867474989813,
+            0.5375492372340699
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "d43be95f57b45c673d99e1c7248272e59dc2fd301b684efc2c1c0ab630514f6f"
+    },
+    "circuit_83": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.6349512275076725,
+            -0.6200226274726778
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "f03ec2a217b1b5d2ee2f2d428df12e4d749166f2ef77f455cde4c5b3d5ae6b20"
+    },
+    "circuit_84": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4798072543282971,
+            0.4376897746756881,
+            0.7605823798755736
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "9003a70c89f96471c7e879264a0f8b9bdd3fad9b82cdfc669aaa485eb4c742b6"
+    },
+    "circuit_85": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685441958184,
+            0.8956549753078531,
+            0.32078200739898766
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "a0eb2eabd5577876b097d0e11060af6cb219250d3b441e51715624b35b2b94de"
+    },
+    "circuit_86": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.2880319285407578,
+            0.31144706389732346
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "f6cf7f0f448709a7bdb7ad03b8cbf03cb510babafbd25c3d83ce4c7da0016092"
+    },
+    "circuit_87": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.12390815630356598,
+            0.044521800988766694,
+            0.804166468166126
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "06da25ffc95c3a31ca7177a1f2fd8a5dc930477f544d5348b0f36b1f71a60871"
+    },
+    "circuit_88": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715126774215,
+            0.7048674705226693
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "195434cf39e4074ea59016c8e40377908f50a9e5a100da743592e9ebc59b26ee"
+    },
+    "circuit_89": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715127184337,
+            0.704867470692056
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "cb467768c9ed02cb6d0bf22d8b1394ad5d3b046a9b1eb71001a51fcdf1c20758"
+    },
+    "circuit_90": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715128762127,
+            0.704867470067715
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "ccd014751197e628ea97c0408595f1abe478e7257a97e6f3d0845755ce10a5b6"
+    },
+    "circuit_91": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5240707460711161,
+            0.32868133704839114
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "6f2a30f9854b3e6af758fb8e666177822fde261b3ba0c83af0f7c1833125b227"
+    },
+    "circuit_92": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118296694,
+            0.4252131419028313,
+            0.7707585265307135
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "aca484e10d27a2642b40b8da99dc51bc1abebd290bea745214c90738e7720748"
+    },
+    "circuit_93": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.10623862768945005,
+            0.07144967381319894,
+            0.7959249830114261
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "2f652b25fc52edfab3c6ab0b1c037dc5d02e7b0b2aaf3c9813ddd673131c66fb"
+    },
+    "circuit_94": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -1.4248149861401251,
+            0.11362388193535009,
+            0.01577687833023037,
+            -0.8083132438712421
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "bd1add0aa31a43b6de2f3d1db06b39640fd63b45bb6d012c7e03e3098d829839"
+    },
+    "circuit_95": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118197552,
+            0.6948674739519709,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "1e8782cbe346c89500b22c26f17cd474701181e87ec65d90b7370f400922cc47"
+    },
+    "circuit_96": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117582524,
+            0.6948674738142441,
+            0.7208884962040175
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "fccc9f9840be0b7f92b9e2e16905af13a080ed7a467d4da6b568515a35ae6603"
+    },
+    "circuit_97": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.8799545248609565,
+            0.6948674741551386,
+            0.6727343749280005
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "5eafd8dd4f388295d4ec2f8936cf62a4bb6565fb167960b5680bfd937f550f3f"
+    },
+    "circuit_98": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715115579181,
+            0.7246979830374457
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "42abbf84d8f8b98de4d8fe6dd68c6fabd065345aef00cf65cfc9677d909b8bcb"
+    },
+    "circuit_99": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6429592861564611,
+            0.7858902034532289,
+            0.5275492381353365,
+            0.5952090952993798
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "ebb7eb7ff0f996f60cbf5eb31fc617a97c3dd03ee6f774705246afe5f62ebd2f"
+    },
+    "circuit_100": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -1.2460905486948426,
+            0.577130950909705,
+            0.5275492374721434,
+            0.6243401603685885
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.38333334028721,
+        "accuracy": 1.0,
+        "hash": "c751817ec97ac9b26bc9258f27d82abd76e385e113f324f6e964b52121ab464c"
+    },
+    "circuit_101": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.26140765239156066,
+            1.1728762719998687,
+            -0.7950471018911572
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "3d213feaa30a026a0b64ed6e4a5c240fe9fade78b5d7839ae27d104e82238dfc"
+    },
+    "circuit_102": {
+        "circuit": [
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.5555067046783442,
+            0.6948674742561796,
+            0.7066589659225362,
+            -0.5284948466649702
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "6b63f91c0fe55e3f6b153ea2be7ee2e1ffdc3457ae4cdf3dbf84a03dbdda752c"
+    },
+    "circuit_103": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715126370247,
+            0.11007183115690304,
+            0.5275492382526918,
+            -0.04816615553689776,
+            0.5483596631324558
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "b15d1fac7f985f9cab0066495c3a2216e38e9c52581c1e741e04284a8e8c3b02"
+    },
+    "circuit_104": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7412715081887582,
+            0.6848674783245345,
+            0.5375492374858137
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "ceffec7a272ed48a2878c8001305509c4c168976995c9f52c80630b277ced24b"
+    },
+    "circuit_105": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685446229143,
+            2.040302241708843,
+            -0.6407612582605924
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "6d9af48f94d8e4ae6943e0d7a9e54542b153ddca5148cae80dd23ca136cd6f61"
+    },
+    "circuit_106": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.9272286818790263,
+            0.8367782470761755
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "1212086042d5c4b04bd79ef67994a9fe506ee333c7d8a47bf79cd7688a900491"
+    },
+    "circuit_107": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.8410804089462727,
+            0.5854241093336999,
+            0.6358506456570412
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.40666667222976,
+        "accuracy": 1.0,
+        "hash": "cf77217195984d4a251f815b9fa7818fe882ad1371b4f9f8a3a52fe492e1aa9e"
+    },
+    "circuit_108": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715139801688,
+            0.5594505644678204,
+            0.527549236759593,
+            0.6269041587598564
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "aa40bdb9a95eee66b80d95d2a78b202fea48b2bdc4bf25db084eb6f1088f2c8e"
+    },
+    "circuit_109": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4420784489750744,
+            0.4144111050758011,
+            0.8136714044378345
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "ae54ce12a9e1ee49ac7f1d364a77ce4c3a3acd0fcd84b2a29dafe0bdd79fb7bc"
+    },
+    "circuit_110": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.917762842605328,
+            0.841022896785174
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "5ea1cd3a2a1739e3c93d14fed74aaeca4f74277029ab2a50c5214eac4d1a0e87"
+    },
+    "circuit_111": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6415295835335526,
+            0.6948674737660517,
+            0.6163821042585063
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "d3b24e26619908b57162f87519bf6df79aa6c11b1539b8a7aa2fdf56334daaa7"
+    },
+    "circuit_112": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715150194047,
+            0.6948674735032612,
+            0.5275492378458242,
+            0.5511816572031296
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "b58a72694218f2864a0daaf2e7857241308841ad04c2d80531576011101f4db4"
+    },
+    "circuit_113": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.12390815630356576,
+            0.04452180098876667,
+            0.8041664681661259
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "3fcfd7c3508afb7d9aa89b81eb695975751d304c282b751aa088e064f627361d"
+    },
+    "circuit_114": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117721035,
+            0.6948674737284157,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "f35dc8ef0ba4882bc22fe70a57a264728708a0fd92079b21e6abd5f80a08a97c"
+    },
+    "circuit_115": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5142675812659854,
+            0.47707715696079217,
+            0.7313297277133101
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "0f11d21465f0fd3d17c93b38ddd46430e5baadeb69180c1423bc34bf9b0c923b"
+    },
+    "circuit_116": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.5669510721056215,
+            -0.5578126784525631
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "911480d76b838fcab6e54074e343a52bea927e4223d768f2167a36144f814971"
+    },
+    "circuit_117": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.24073059347498446,
+            0.6948674737987609,
+            1.050536803141179,
+            -0.7213894041469499
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "5c138be2fd6e8b8471648e55b61ba24ee66d41b90ba5800af84c9447f904ce1c"
+    },
+    "circuit_118": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.032387213485456555,
+            0.6948674748376656,
+            1.202276315359396,
+            -0.4898619483952214,
+            -0.5780096606583686
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "59504562b479f73b93434b26bd0f854eab97610fc4d1c5f87b97399519486c39"
+    },
+    "circuit_119": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271511318898,
+            0.6948674739523794,
+            0.5575000700680067
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "ae12f03464525ef807cf5daf21796c839081591a9d5ed394c497ada2e91263cc"
+    },
+    "circuit_120": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715124503614,
+            1.0571524630297833,
+            -0.7921353018557741
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "c515cf7bf737619a282b3b5046c2fbd3577fcc470f059308395773c2b774d685"
+    },
+    "circuit_121": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (1, 0)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -0.9272286818790263,
+            0.8367782470761757
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "203aee3013210e446d89d02d744baae7ee190c805a64e08d291bfa6473def58c"
+    },
+    "circuit_122": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.38765594920599855,
+            -0.04979258209028725,
+            0.5275492386035213,
+            -0.9207718137209148
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.40500000417232,
+        "accuracy": 1.0,
+        "hash": "0102cf6f8b3e140b5db7b80695d9ba84bdfbe93ff8303a30ac9792ad78914ce6"
+    },
+    "circuit_123": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7512694392925279,
+            0.6948674739854876,
+            0.5475379528381252
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.43000000417231,
+        "accuracy": 1.0,
+        "hash": "d825c3c3a16af8728ddf91d2e9aad2779e5d1e7a5bc79a1fa7a334fcd8e4f95f"
+    },
+    "circuit_124": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.1158638257414923,
+            0.6948674733314386,
+            0.5275492371576518,
+            0.7772791914499693
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "28108b40d1d80a36a4c6507d3286cb430ab7b81d62508a92957350a2999f3485"
+    },
+    "circuit_125": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.0641111541413644,
+            0.8660212349896848,
+            -0.70366593169971
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42833333611487,
+        "accuracy": 1.0,
+        "hash": "3a7528e194cd7dbe9dae0476079571f449bc687d5bf4ccc9a3c67f3903420bcc"
+    },
+    "circuit_126": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7412715106231423,
+            0.704867472279644
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45333333611488,
+        "accuracy": 1.0,
+        "hash": "46764cd674707d32625dd7accaaf940260269b9bc8001c3643ee2f67d5d70a2f"
+    },
+    "circuit_127": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271512092216,
+            0.6948674739999002,
+            0.5275492385861094,
+            0.5511816572031297
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "304a636ee52f760d210eebec56e2fc94ab73f1823a5c304654d804f564cf6355"
+    },
+    "circuit_128": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7412715104354096,
+            0.684867475152624,
+            0.5375492372378049
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.45166667103769,
+        "accuracy": 1.0,
+        "hash": "8321be9790f4b99835b424bbb5431290c17287a85a1b3272ada46b5cc61dbbd4"
+    },
+    "circuit_129": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            2.0311328367727306,
+            0.8956549741695197,
+            -0.6444896459685975
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "6a259307e328ada0f6a1ff5ea5eb19634d16065be88df903980e0876f7d27265"
+    },
+    "circuit_130": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271512948138,
+            0.6948674739049122,
+            0.5275492383519386,
+            0.5511816572031298
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "1d7eecd93fbab8b2705bfc8c53f30e5b0a3a7a79d3aadae8602ef8a3f79d3ada"
+    },
+    "circuit_131": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.4471317451436865,
+            0.6948674740924918,
+            0.811821179521224,
+            -0.6700753249496036
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "1da4f46e1f39fef244e7d01d178db4891402beb1cbda612a580f98f26e4da3e0"
+    },
+    "circuit_132": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715115417978,
+            0.69486747354651,
+            -0.008891415475782724,
+            -0.4898619486165184,
+            0.5502356712456081
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "b647164c7666ea93db8f2e6997370faafdc142dc57757fd67e21d04d2d7f848d"
+    },
+    "circuit_133": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7119689824635796,
+            0.6948674738177599,
+            0.7212159658065591,
+            0.6939045523017007
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "09be17e662ad76e02783e2fcf3ca712c43234b2eea21bd6673b584243e00d486"
+    },
+    "circuit_134": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.25762399336411945,
+            0.3401800054741264
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "cabf580d2c98479e3720bad8e40286f134f426742e831f3fa051554f9e1042e9"
+    },
+    "circuit_135": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715119688991,
+            0.7246979830374457
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "e0d3f9bb6ca2b910f00bcda7ad840ce3fa3ee8259fffa382eda760c4163aeea7"
+    },
+    "circuit_136": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.2576239933641194,
+            0.3401800054741264
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "27d0c3155d48d75dafc1facf1738348a8b7a9a6ced453a2feca32ccbfce89c26"
+    },
+    "circuit_137": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715108108467,
+            0.6948674730738823,
+            0.08305607155519534,
+            -0.48986194953295964,
+            0.5506464747524
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "af6b3da97642e79e870252e5fd0b78eb8583f4741681f000f2a24452f81095d6"
+    },
+    "circuit_138": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.04907467124070433,
+            0.6948674733939197,
+            0.52754923778741,
+            -0.03982330769035161,
+            0.7242329034577487
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "028bd7e0529f72d79ae185787f8caea46d00c1c5ed06fc845c61f0761baaabaa"
+    },
+    "circuit_139": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715112749413,
+            0.6458402100341039,
+            -0.5055605162620167
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "cc4aa0ee72f415d8aa8b3539dee6a4113f03462b1039468421c1920e25f6abeb"
+    },
+    "circuit_140": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.16681830276638362,
+            0.6948674750720041,
+            1.0920024469620415,
+            -0.8395187581744485
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "ead8ec31392117df3148a972e7cb2ae096b9e93cb0403ac0115a4db2574e1587"
+    },
+    "circuit_141": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.11222132065891054,
+            0.6948674745834819,
+            0.7983056549049856
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "043fc5813ad54751713bfd8b944a09f3bb1caac096f422aed914c6b60e2583fd"
+    },
+    "circuit_142": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.561879662275506,
+            0.5306405533384414,
+            0.6250607798611449,
+            0.6405192924377179
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "86cedd4987e51617cc8b58d7bb2c230468fb684ffc50403b8b1b85521cfea4b4"
+    },
+    "circuit_143": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -2.17316012982392,
+            0.548342165022229
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "c1355234cde49df7efdce43d918c50a26c188ffa75eb04ed11d809296701a50b"
+    },
+    "circuit_144": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685463424025,
+            2.0403022417088423,
+            -0.6407612582605919
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "25629684916885be9bfe6c54470f4931c9b8cb2c2e285f2cc41dfded8401297e"
+    },
+    "circuit_145": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4520368669861847,
+            0.6948674737261988,
+            0.7769014655227854
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "09d065b33d196b3d64e7cc155a0e64cc451ba4cdbec7918649bbbea124a07ec1"
+    },
+    "circuit_146": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -1.2460905486948421,
+            0.577130950909705,
+            0.5275492375830202,
+            0.6243401603685884
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.40500000417232,
+        "accuracy": 1.0,
+        "hash": "c53b086f0bb32d81fd8a6e345aaeb73351ce334f850f4f710a27945dd786b6ae"
+    },
+    "circuit_147": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.583581391724814,
+            0.6948674741047898,
+            0.5275492372837289,
+            0.636449837183923
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "5256f78c15f848065c03756bdedc6ebc920a8661248bc06f76bcdc2dcd9d1ac6"
+    },
+    "circuit_148": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715126007023,
+            0.6948674739974465,
+            0.9544208722395542,
+            -0.8224235499686093
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "ea3915e5227b56c552d88ce33b62cab55629b49d7e4093ca42107a78c08b7a14"
+    },
+    "circuit_149": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            1.2225435307101697,
+            0.8956549756379719,
+            0.11505440838328071
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "46411071cb93752a0cf0410acea81ae19bed2eb840c50ffed7424b1d11a7f468"
+    },
+    "circuit_150": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715120091946,
+            0.08913198730065997,
+            0.5275492389844157,
+            -0.48986194808982214,
+            0.5556048262276541
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "86b748a3e264ec29a2a689e45b1dfbe753735a281a57904bcac61a1b94145f00"
+    },
+    "circuit_151": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715108422166,
+            1.0571524630297833,
+            -0.7921353018557741
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "b8dc9cdfbbc632f0ba9349c21d4c7f1e4c850047db3f2706f24ac8d6d10125bc"
+    },
+    "circuit_152": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.4916188450130431,
+            0.12485054108683846,
+            0.35295487543069065
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "67859f165abcdf7cfae660b52a85a52b1f88b8b2a192202dd1015235e045c6c9"
+    },
+    "circuit_153": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117881768,
+            0.8825991205969412,
+            0.5275492389811961,
+            -0.6717443063376575
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "44daf431c433a5fb828ad6304a436170af1bd6d0ac7518790497bd1666ec2674"
+    },
+    "circuit_154": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715125013473,
+            0.11963189625442602,
+            -0.048710468140387604,
+            -0.4898619492834967,
+            0.5486040576738718
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "314749ce97260e243847f7d8a6765315f7cb05c042bdce972cf84d82a2b24685"
+    },
+    "circuit_155": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116131925,
+            0.694867473233418,
+            0.5275492377968574,
+            0.02024122609422112,
+            0.553773031417349
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "d45b1826d763b55394800d36a922634727e5b3dd94456e40e293c6dcedcd64d3"
+    },
+    "circuit_156": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.42799422934926123,
+            0.6948674735809182,
+            0.24956914343222045,
+            0.7984113052344142
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "4e03fe87b10889df84ff2a0ee2d5d22d458c55459ead21221bad2a0903931320"
+    },
+    "circuit_157": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116232129,
+            0.8570497137068273,
+            -0.6874130869318088
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "eda7c28e114f0c696eac8e2ecd60d2174688c0112dda1073b44193f4adc336c1"
+    },
+    "circuit_158": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7412715104354096,
+            0.684867475152624,
+            0.5375492372378049
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.43000000715256,
+        "accuracy": 1.0,
+        "hash": "c57bfa09281b97798a937c16679fe6563e10928482fb611d1b6e9dfe6316701f"
+    },
+    "circuit_159": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5240707459251257,
+            0.32868133704839114
+        ],
+        "gates": 3,
+        "circuit_depth": 2,
+        "reward": 104.47500000000001,
+        "accuracy": 1.0,
+        "hash": "04556bbbe68aa9c659a4b7c814352f6c6090c467abfdf6abcf415e2c49a72141"
+    },
+    "circuit_160": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.0479443535674635,
+            0.6948674736915229,
+            0.7983761034383217
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "50d9ca67cb575afc283d86689cb624667b1450cd3f7087e823e6a211f845c050"
+    },
+    "circuit_161": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -1.5263676830357724,
+            0.0965545257113144,
+            -0.01704566409895318,
+            -0.4898619477168184,
+            -0.7511700027471189
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "50b6289cccab50100c4860a261442c5ee45233bd88143b11e1301029ed85b360"
+    },
+    "circuit_162": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.2880319285407578,
+            0.31144706389732346
+        ],
+        "gates": 3,
+        "circuit_depth": 3,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "209789218a392b90e82450d8c1c8b7ad65ba038fe6a3fe5a9af2e3db2c0a5ceb"
+    },
+    "circuit_163": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.42044682855556165,
+            0.3874290131654284,
+            0.5275492353002157,
+            0.8320061939188984
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "b27f7883206ef9858e4388cbae942e8511a19a779a6385d1f48e1b96df06b946"
+    },
+    "circuit_164": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.6819380830032516,
+            2.0851677267610533,
+            -0.7083382007528821
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "9c791a635b707d623792c1b4181bf971a897c0471da2d734f3b21ab6a7e06ea4"
+    },
+    "circuit_165": {
+        "circuit": [
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7612636197408272,
+            0.6948674739350376,
+            0.5575239791080204
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "d1905d7250f1d85371a5a93ec1b3d369bcdbbc257181963ff6fe443d9596d327"
+    },
+    "circuit_166": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118113603,
+            0.09968772763332089,
+            0.5275492394262288,
+            -0.48986194886246126,
+            0.5465778037127572
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "085a0206aaa297a6611af8a6ef2615bb1c5d075f12a58de5860c043f0e63c41e"
+    },
+    "circuit_167": {
+        "circuit": [
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.06413563513682577,
+            -0.3946834746594136,
+            0.7700320179286376
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.40333333611488,
+        "accuracy": 1.0,
+        "hash": "89a83132fbba8aeaf5584873d94b59592b4ef63373708f3d43830f28c45bbf49"
+    },
+    "circuit_168": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            0.09582743107693616,
+            0.7612914923446857,
+            -0.5658543930058411
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "e25a03435e5c3e559fea519e9f8fafdd3a6ab70e48e3a4421ec34103189f0c39"
+    },
+    "circuit_169": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117685937,
+            0.38663264640254325,
+            0.5275492386373885,
+            0.5167387026646333
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "20422dd836e5d14df8935b6de8504761401d820ea20a2f91e54a8778eb8d5617"
+    },
+    "circuit_170": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            1.2225435307101702,
+            0.8956549764737417,
+            0.11505440838328067
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "74a08a0b33d1285ec2157261c0ec0605078daeff5ed076d975940954226cf43e"
+    },
+    "circuit_171": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            1.0452335331534672,
+            0.8526710654185424,
+            0.20187087475231158
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.41000000238418,
+        "accuracy": 1.0,
+        "hash": "94f712bdb0fab469b1784f710f9dc93d1995c13a304bde05fa8417be24ccad3a"
+    },
+    "circuit_172": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715113846782,
+            0.5853319589787058,
+            0.6354017991038962
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "d4749ddb139339eda39cd0a67d9991262f3ae1d1857460fa0fd27168af6b8bcb"
+    },
+    "circuit_173": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715114493802,
+            0.5853319589787059,
+            0.6354017991038962
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "8d54b326e563f1f4ca322a800f54c700a8050bd7ea331d55f58ac3a6c018dd39"
+    },
+    "circuit_174": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.5261440733068498,
+            0.6948674747343596,
+            0.6960130941275641,
+            0.4153961373275729
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "161cbd04ef3787612befdbdfdd1fefeb3b09f8e458018cd16b12442ddb5ac320"
+    },
+    "circuit_175": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715096961034,
+            0.13875087373037656,
+            0.3087785477400742,
+            0.5555297687088088
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "3caa1154defb61ea9ba6938468cb69cfb28313e7e42c7860c7ea35990d857091"
+    },
+    "circuit_176": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.731271512718843,
+            0.38663264640254336,
+            0.527549238853212,
+            0.5167387026646332
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "63c1bf7a95cafdd265c976aa29beeff32f298d2d1635c1f3338f0cf8e55a4fc4"
+    },
+    "circuit_177": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715119570069,
+            0.6948674739840177,
+            0.3553407317382406,
+            0.5209387932809721
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "b3a28b40d9bb9b10f47c67061709caa83bf6ee1f3822362928f8d09c42442c3e"
+    },
+    "circuit_178": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685429828669,
+            2.0403022417088423,
+            -0.6407612582605925
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "36a3c2c06c50095b7d44c42fdcb633f9babb73c04ccfdbf0abee2cbc3e9a939c"
+    },
+    "circuit_179": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715126743692,
+            0.6948674747223864,
+            0.9544208722395542,
+            -0.8224235499686094
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "bc9bfcc8e14aca1e00a2314f950a9d333d4832aca94c9d538b28df3d824f4c0d"
+    },
+    "circuit_180": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6168806687931507,
+            0.578073054958401,
+            0.5275492378567201,
+            0.5980348471383597
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "73b306a1ef5f13762d9c50b92d3443f2fa34260e0152d141cf1572ac941b8f3f"
+    },
+    "circuit_181": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.4655283184350752,
+            -0.5732518814489,
+            -0.2600896678487547,
+            0.6368538760003536
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "f9ffbecec1e10976c2d7675c75dca72942f57ae0df8de33c66476ef1eca50bb8"
+    },
+    "circuit_182": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -1.0389728847055146,
+            0.6948674735371665,
+            0.7960429108309524
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "14c10d21f2f5433810426cede5846a5245783de93e480182d4775f05d6142359"
+    },
+    "circuit_183": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.8799545248609565,
+            0.6948674738528363,
+            0.6727343749280005
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "62e05b0c47c8878a09083d45ab8f62a837af70aa5c4993a89bbba4e1a1a32acd"
+    },
+    "circuit_184": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118620116,
+            0.69486747447269,
+            0.527549237607962,
+            -0.033963008957481965,
+            -0.009129826004324963,
+            0.5528846211146378
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "df108b0c4c30facbcd42a5e40efba9d45cfb0d914d7fb242b0debf89d7749fc3"
+    },
+    "circuit_185": {
+        "circuit": [
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            1.3817983141974624,
+            1.696154681219029,
+            -1.654139266493927
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "6744797b5514adee91b391c6ba319ce49e9080be40c9f59786ce82aaae126e9d"
+    },
+    "circuit_186": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715117015393,
+            0.07977825548192968,
+            0.5275492370525826,
+            0.7210742809903617
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "397c1ab31e87f6e8a2b8088cb0a18cba3f53fc62a707803b263ef6515b37f904"
+    },
+    "circuit_187": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -2.17316012982392,
+            0.5483421650222291
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "b35aca4b60c1c4208bdf23a72f37462cd6c6c73bb03e04317a5e19c6eac8ffc7"
+    },
+    "circuit_188": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715113263831,
+            0.6948674741075515,
+            0.9544208722395542,
+            -0.8224235499686094
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "f116306dbaf6e2f94a35601ee4a3d5ce474c96c837e7b6d715f2e8076386a64f"
+    },
+    "circuit_189": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -2.3067381779325467,
+            0.6948674738391759,
+            -0.472485428860736
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "6d46e2fd154daa5ecd1b5061e253a3f814ed57d5fbbb601472fc4b558d310a7f"
+    },
+    "circuit_190": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715114538021,
+            0.7269203982745676,
+            -0.5711927417397561
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "aed9a8c79f9df5eda18ba97bf68371390c733b780b4efa42b79959268d32bbf1"
+    },
+    "circuit_191": {
+        "circuit": [
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715119034602,
+            0.6948674747008785,
+            0.5275492397022408,
+            -0.48986194824438994,
+            0.5510037682800453
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "dc73a2fb11a1f34ea47ef2ec3c9617d045ac47b3174be4297b74707fd00fad24"
+    },
+    "circuit_192": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RZ (0, 1)",
+            "RZ (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715116315388,
+            0.6948674758417243,
+            1.205549037862344,
+            -0.48986194898995783,
+            -0.5814503891773752
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "a47cffdaeed3106b30ad2a25aac1df9c05cdc974244f6d5e8502176663caaecb"
+    },
+    "circuit_193": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.9120685431666015,
+            1.2992200519164225,
+            -1.291804962762509,
+            0.4334305440126692
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "d2cb27a5b8473e4556c99bc0fb9114b77a4aac703d7604ac31e17d2fc598fc1c"
+    },
+    "circuit_194": {
+        "circuit": [
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.5746930858590439,
+            0.8506798186601361,
+            0.6870218351949485,
+            -0.5301585642455128
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "80551abf5fae4e6a3599633117e34636d59a9f6f4e9c0abcbbc1b96557a22f36"
+    },
+    "circuit_195": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.12273543208431066,
+            0.694867473773694,
+            0.5275492389756183,
+            -0.4898619472126831,
+            0.5523709030686641
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "e4a7594951f11d1cf748d14a4b48529cdb62edbc2bc2fb0394256f1494f81b28"
+    },
+    "circuit_196": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715128737574,
+            0.6948674747455781,
+            0.08305607155519547,
+            -0.4898619486295377,
+            0.5506464747524
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "8347da1589ae52aa4f52d34da0b910bc3ed1eb673b4101f6ec18f2ca50e4180a"
+    },
+    "circuit_197": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.6913085823176522,
+            0.7046855927781267
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "476ae16172e3941557aec046fcc5485e5454cd66a607b5d1eaf5401f0809d9bd"
+    },
+    "circuit_198": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.002772109629489373,
+            -0.3914151521625938,
+            0.7677730546162093
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42833333611487,
+        "accuracy": 1.0,
+        "hash": "e2c0eb1ca1323db90d95d061e3e1967e6f8c847e0fd8824a7dd179eb0159b66a"
+    },
+    "circuit_199": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "CNOT (0, 1)",
+            "RY (0, 1)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -2.1728938360021197
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.42666667103768,
+        "accuracy": 1.0,
+        "hash": "a670f3c97aa8ee60ba48ff8ce50148e690ce48a2d5cb41c8c77e80e4cce1a599"
+    },
+    "circuit_200": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715120904327,
+            0.6948674731541166,
+            1.2055490378623441,
+            -0.48986194792242016,
+            -0.5814503891773752
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "f072cd6f332351c26b70d1a6bc3ac86700603614686ed308f8abe1b98e951f69"
+    },
+    "circuit_201": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715126774215,
+            0.7048674705226693
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "59600301a16580743ecd61cce316db7bd29c80e355773a8f585ef0eece76fed7"
+    },
+    "circuit_202": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "CNOT (1, 0)"
+        ],
+        "weights": [
+            -1.7511341455198486,
+            1.8019436165055933
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "cb442fc4f53b7e476fffc3d16792ef87805c839a32169ceaa8e1f44eef2d22e6"
+    },
+    "circuit_203": {
+        "circuit": [
+            "RY (1, 0)",
+            "CNOT (0, 1)",
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -1.427943874573749,
+            -0.0052958778487690724,
+            0.52754923783354,
+            -0.8072101487762543
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "b1cd7a283f1190ed9310c976787da3e5d35c659350a7688f7a110613bfa0a528"
+    },
+    "circuit_204": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7470942132357729,
+            0.6948674728189729,
+            0.5117265364926519,
+            0.3148997406272327
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "4a173d137e11e78a627a122a3acf591d556801f7b89a9d049a00f2be7d3b59a8"
+    },
+    "circuit_205": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715118296694,
+            0.4252131419028313,
+            0.7707585265307135
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "f86829d6921bbd71d907641e1178f2b8338629d7bd1c87937e82e70b08ea8b8a"
+    },
+    "circuit_206": {
+        "circuit": [
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715113413747,
+            0.5853319589787058,
+            0.6354017991038962
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "26ef4a67b4b4e1fc188046c2250ad264bbb06a34f5518e3d52a43452fbaae9a9"
+    },
+    "circuit_207": {
+        "circuit": [
+            "RZ (1, 0)",
+            "CNOT (1, 0)",
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715124090733,
+            0.7963856333668721,
+            0.5275492382910659,
+            0.4430099454289235
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "d6e5e706f1908a366b341318e60b1a728a8fa3d58aa0b4722adee2d7d96c2e9d"
+    },
+    "circuit_208": {
+        "circuit": [
+            "RX (1, 0)",
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715132496325,
+            0.342559776558234,
+            0.5275492375266136,
+            0.753749663672724
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "3a2bdc6e27f12849032c2b8b9ee1e4171caae1879fea6fae4e5076efefe6b463"
+    },
+    "circuit_209": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715125324849,
+            0.6948674738744653,
+            0.5375492369239726
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.375,
+        "accuracy": 1.0,
+        "hash": "c086cd41a6372e47a91eb352baa7a6f537727499d02af5a0630383867f9c6abf"
+    },
+    "circuit_210": {
+        "circuit": [
+            "RX (0, 1)",
+            "RZ (1, 0)",
+            "RY (1, 0)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.2674831383000274,
+            0.6948674731062289,
+            0.5275492392003458,
+            -1.1402195917304803,
+            0.6127888628909873
+        ],
+        "gates": 5,
+        "circuit_depth": 3,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "c94b8e21215aaf99aff5002022e10442bfde4dbec42358626bcdc4fa31b966ee"
+    },
+    "circuit_211": {
+        "circuit": [
+            "RX (0, 1)",
+            "CNOT (1, 0)",
+            "RY (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            1.2225435307101695,
+            0.8956549752942976,
+            0.1150544083832807
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "ab3da2a72c838ba393a258fefaac0885b0a083316374ddde1e1a9ed35eb9cb47"
+    },
+    "circuit_212": {
+        "circuit": [
+            "RZ (0, 1)",
+            "RX (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            2.0403445265782807,
+            0.292832101898481,
+            -0.6210406743521251
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "388bd0810a4e59f4b9499eba820ffe99c2e145ef290de90cfea7b1b68c0546f3"
+    },
+    "circuit_213": {
+        "circuit": [
+            "RY (1, 0)",
+            "RX (0, 1)",
+            "CNOT (0, 1)",
+            "RZ (1, 0)",
+            "RZ (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            0.010463352009597974,
+            0.20311930705404652,
+            0.5275492383032873,
+            -0.13557406002841604,
+            0.7233403313772407
+        ],
+        "gates": 6,
+        "circuit_depth": 4,
+        "reward": 104.35000000000001,
+        "accuracy": 1.0,
+        "hash": "dc4cec9e34024e8b2a4ab3f9d7425bc78e9c25cdd7065e25e26e4d414447f105"
+    },
+    "circuit_214": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (1, 0)",
+            "RX (0, 1)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7312715108187855,
+            0.6948674723097092,
+            0.3553407317382405,
+            0.5209387932809721
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "604c1a559c4e72131dbd67a7685b0e62d6fc1f5fd99355a5f3899e7255af6790"
+    },
+    "circuit_215": {
+        "circuit": [
+            "RX (0, 1)",
+            "RY (1, 0)",
+            "RZ (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.3938616297764418,
+            0.6948674733463468,
+            0.5275492374475863,
+            0.5135885103726934
+        ],
+        "gates": 4,
+        "circuit_depth": 2,
+        "reward": 104.45,
+        "accuracy": 1.0,
+        "hash": "9e4b491635dbf3117843b2bb62354fd396f01479aaa4a0455b0198b8ed383b50"
+    },
+    "circuit_216": {
+        "circuit": [
+            "CNOT (1, 0)",
+            "RX (0, 1)",
+            "RX (1, 0)",
+            "CNOT (1, 0)",
+            "RY (0, 1)"
+        ],
+        "weights": [
+            -0.7212715408165289,
+            0.7048674486701092,
+            0.5375492373850134
+        ],
+        "gates": 5,
+        "circuit_depth": 4,
+        "reward": 104.39166666865349,
+        "accuracy": 1.0,
+        "hash": "e81e6b0031bd97a81152e329cc9c115f1ec770db0e15a5d39c0ecffe94d9d58f"
+    },
+    "circuit_217": {
+        "circuit": [
+            "CNOT (0, 1)",
+            "RZ (0, 1)",
+            "CNOT (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7612551099064372,
+            0.7247463808815966
+        ],
+        "gates": 4,
+        "circuit_depth": 4,
+        "reward": 104.4,
+        "accuracy": 1.0,
+        "hash": "cc78878d931d7efb01cf81e30650982aad23666257c03c1451174072f69721b6"
+    },
+    "circuit_218": {
+        "circuit": [
+            "RZ (1, 0)",
+            "RX (0, 1)",
+            "RZ (0, 1)",
+            "RX (0, 1)"
+        ],
+        "weights": [
+            -0.7312715114459692,
+            0.5390103649641049,
+            0.8349939588805706,
+            -0.7927665677876037
+        ],
+        "gates": 4,
+        "circuit_depth": 3,
+        "reward": 104.42500000000001,
+        "accuracy": 1.0,
+        "hash": "b65d1bef2249bdefade2f67dba761dfc16919859096f7eb4ca641b2f8e78add8"
+    }
+}

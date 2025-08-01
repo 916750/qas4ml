@@ -1,0 +1,30 @@
+{
+    "header": {
+        "name": "circuits_iris_2_0-2",
+        "description": "Some of the best circuits developed by the RL Agent for the Iris (binary 0-2) dataset",
+        "ml_task": "classification",
+        "dataset": "iris_2_0-2"
+    },
+    "circuits": {
+        "circuit_1": {
+            "architecture": [
+                "RY (0, 1)"
+            ],
+            "number_gates": 1,
+            "depth": 1,
+            "measurement_mode": "minimum",
+            "accuracy_train": 1.0,
+            "accuracy_test": 1.0,
+            "accuracy_total": 1.0,
+            "num_weights": 1,
+            "optimized_weights": [
+                0.297774038128622
+            ],
+            "optimizer": "adam", 
+            "optimizer_learning_rate": 0.01,
+            "optimizer_epochs": 1000,	
+            "optimizer_batch_size": 16,
+            "id_hash": "fef5280f23157feac12dc78de1ba613036707ed766249bb37a55c7c17d7c96f4"
+        }
+    }
+}

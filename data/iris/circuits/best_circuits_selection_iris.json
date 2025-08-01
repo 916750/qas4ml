@@ -1,0 +1,92 @@
+{
+    "header": {
+        "name": "circuits_iris",
+        "description": "Some of the best circuits developed by the RL Agent for the Iris dataset",
+        "ml_task": "classification",
+        "dataset": "iris"
+    },
+    "circuits": {
+        "circuit_1": {
+            "architecture": [
+	        "CNOT (0, 1)",
+        	"RZ (1, 0)",
+            	"RY (1, 0)",
+                "RX (0, 1)"
+            ],
+            "number_gates": 4,
+            "depth": 3,
+            "accuracy_train": 0.9523810148239136,
+            "accuracy_test": 1.0,
+            "accuracy_total": 0.9761905074119568,
+            "num_weights": 3,
+            "optimized_weights": [
+                -1.7410495673015194,
+                1.247916362510123,
+                -1.0043564973024153
+            ],
+            "optimizer": "adam", 
+            "optimizer_learning_rate": 0.01,
+            "optimizer_epochs": 1000,	
+            "optimizer_batch_size": 20,
+            "id_hash": "9906f589b10286233536d475b7f130a26b3445bd0ea04f4bbe7885758affcbf7"
+        },
+        "circuit_2": {
+            "architecture": [
+                "CNOT (0, 1)",
+                "RZ (1, 0)",
+                "RZ (0, 1)",
+                "RY (0, 1)",
+                "RY (1, 0)",
+                "RX (0, 1)"
+            ],
+            "number_gates": 6,
+            "depth": 4,
+            "accuracy_train": 0.9619048237800598,
+            "accuracy_test": 1.0,
+            "accuracy_total": 0.9809524118900299,
+            "num_weights": 5,
+            "optimized_weights": [
+                -1.31700725,
+                1.19393353,
+                1.04125822,
+                -1.26221023,
+                0.44543362
+            ],
+            "optimizer": "adam", 
+            "optimizer_learning_rate": 0.01,
+            "optimizer_epochs": 1000,	
+            "optimizer_batch_size": 20,
+            "id_hash": "c8f0936a9dd0b291cbd20d94f25ef2fb871f7e4246eab1fe47d16742c4f848e4"
+        },
+        "circuit_3": {
+            "architecture": [
+                "CNOT (0, 1)",
+                "CNOT (1, 0)",
+                "RX (1, 0)",
+                "CNOT (1, 0)",
+                "RX (1, 0)",
+                "RZ (0, 1)",
+                "RY (1, 0)",
+                "RY (0, 1)"
+            ],
+            "number_gates": 8,
+            "depth": 6,
+            "accuracy_train": 0.9333333969116211,
+            "accuracy_test": 1.0,
+            "accuracy_total": 0.9666666984558105,
+            "num_weights":5,
+            "optimized_weights": [
+                -0.52482333,
+                1.31048014,
+                1.29307895,
+                -0.22927686, 
+                0.63142933
+            ],
+            "optimizer": "adam", 
+            "optimizer_learning_rate": 0.01,
+            "optimizer_epochs": 1000,	
+            "optimizer_batch_size": 20,
+            "id_hash": "3414ad1948ea6e21006a4270304728bfc98083ed32d66444cd9ade1670b0799d"
+        }
+    }
+}

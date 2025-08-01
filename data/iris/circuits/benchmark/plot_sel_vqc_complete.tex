@@ -1,0 +1,24 @@
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{quantikz}
+\begin{document}
+
+
+\begin{quantikz}
+\lstick{$\ket{q_{0}}$} 
+    & \gate[2]{\shortstack{Amplitude\\Encoding}} 
+    & \gate{R_X(\theta_1)}\gategroup[2,steps=5,style={dashed,rounded corners,fill=blue!20,inner xsep=2pt},background,label style={label position=below,anchor=north,yshift=-0.2cm}]{{Strongly Entangling Layer}}
+    & \gate{R_Y(\theta_2)}
+    & \gate{R_Z(\theta_3)} 
+    & \ctrl{1}   
+    & \targ{}
+    & \meter{}\\
+\lstick{$\ket{q_{1}}$}                                           
+    &                   
+    & \gate{R_X(\theta_4)}
+    & \gate{R_Y(\theta_5)}
+    & \gate{R_Z(\theta_6)} 
+    & \targ{}
+    & \ctrl{-1}   
+    & \meter{}\
+\end{quantikz}
+\end{document}

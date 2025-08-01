@@ -1,0 +1,29 @@
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{quantikz}
+\begin{document}
+
+\tikzset{
+operator/.append style={minimum width=2.0cm}
+}
+
+\begin{quantikz}
+\lstick{$\ket{q_{0}}$} 
+    & \gate[2]{\shortstack{Amplitude\\Encoding}} 
+    & \ctrl{1}\gategroup[2,steps=6,style={dashed,rounded corners,fill=blue!20,inner xsep=7pt},background,label style={label position=below,anchor=north,yshift=-0.2cm}]{{RL-QAS PQC}}
+    & \targ{}
+    &       
+    & \targ{}
+    & \gate{R_Z(1.29)} 
+    & \gate{R_Y(0.63)} 
+    & \meter{}\\
+\lstick{$\ket{q_{1}}$}                                           
+    &                   
+    & \targ{}
+    & \ctrl{-1}
+    & \gate{R_X(-0.52)} 
+    & \ctrl{-1}
+    & \gate{R_X(1.31)} 
+    & \gate{R_Y(-0.22)} 
+    & \meter{}\
+\end{quantikz}
+\end{document}

@@ -1,0 +1,548 @@
+{
+    "sequence_length_2": {
+        "sequence_1": {
+            "pattern": [
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 323,
+            "frequency_relative": 0.0832
+        },
+        "sequence_2": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 313,
+            "frequency_relative": 0.0806
+        },
+        "sequence_3": {
+            "pattern": [
+                "RX (0)",
+                "RY (0)"
+            ],
+            "frequency_absolut": 261,
+            "frequency_relative": 0.0672
+        },
+        "sequence_4": {
+            "pattern": [
+                "RY (0)",
+                "RX (0)"
+            ],
+            "frequency_absolut": 231,
+            "frequency_relative": 0.0595
+        },
+        "sequence_5": {
+            "pattern": [
+                "RZ (0)",
+                "RX (0)"
+            ],
+            "frequency_absolut": 214,
+            "frequency_relative": 0.0551
+        },
+        "sequence_6": {
+            "pattern": [
+                "RZ (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 206,
+            "frequency_relative": 0.0531
+        },
+        "sequence_7": {
+            "pattern": [
+                "RZ (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 202,
+            "frequency_relative": 0.052
+        },
+        "sequence_8": {
+            "pattern": [
+                "RZ (0)",
+                "RY (0)"
+            ],
+            "frequency_absolut": 195,
+            "frequency_relative": 0.0502
+        },
+        "sequence_9": {
+            "pattern": [
+                "RX (0)",
+                "RZ (0)"
+            ],
+            "frequency_absolut": 194,
+            "frequency_relative": 0.05
+        },
+        "sequence_10": {
+            "pattern": [
+                "RY (1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 170,
+            "frequency_relative": 0.0438
+        },
+        "sequence_11": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 169,
+            "frequency_relative": 0.0435
+        },
+        "sequence_12": {
+            "pattern": [
+                "RX (0)",
+                "CNOT (0, 1)"
+            ],
+            "frequency_absolut": 160,
+            "frequency_relative": 0.0412
+        },
+        "sequence_13": {
+            "pattern": [
+                "RY (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 157,
+            "frequency_relative": 0.0404
+        },
+        "sequence_14": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 153,
+            "frequency_relative": 0.0394
+        },
+        "sequence_15": {
+            "pattern": [
+                "RX (1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 138,
+            "frequency_relative": 0.0355
+        },
+        "sequence_16": {
+            "pattern": [
+                "RY (0)",
+                "RZ (0)"
+            ],
+            "frequency_absolut": 134,
+            "frequency_relative": 0.0345
+        },
+        "sequence_17": {
+            "pattern": [
+                "RZ (0)",
+                "CNOT (0, 1)"
+            ],
+            "frequency_absolut": 130,
+            "frequency_relative": 0.0335
+        },
+        "sequence_18": {
+            "pattern": [
+                "RX (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 129,
+            "frequency_relative": 0.0332
+        },
+        "sequence_19": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 115,
+            "frequency_relative": 0.0296
+        },
+        "sequence_20": {
+            "pattern": [
+                "RY (0)",
+                "CNOT (0, 1)"
+            ],
+            "frequency_absolut": 83,
+            "frequency_relative": 0.0214
+        }
+    },
+    "sequence_length_3": {
+        "sequence_1": {
+            "pattern": [
+                "RY (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 56,
+            "frequency_relative": 0.0399
+        },
+        "sequence_2": {
+            "pattern": [
+                "RY (1)",
+                "RX (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 51,
+            "frequency_relative": 0.0363
+        },
+        "sequence_3": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RZ (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 47,
+            "frequency_relative": 0.0335
+        },
+        "sequence_4": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 47,
+            "frequency_relative": 0.0335
+        },
+        "sequence_5": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RZ (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 44,
+            "frequency_relative": 0.0313
+        },
+        "sequence_6": {
+            "pattern": [
+                "RZ (1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 44,
+            "frequency_relative": 0.0313
+        },
+        "sequence_7": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 39,
+            "frequency_relative": 0.0278
+        },
+        "sequence_8": {
+            "pattern": [
+                "RX (0)",
+                "CNOT (0, 1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 38,
+            "frequency_relative": 0.027
+        },
+        "sequence_9": {
+            "pattern": [
+                "RY (0)",
+                "RX (0)",
+                "RY (0)"
+            ],
+            "frequency_absolut": 38,
+            "frequency_relative": 0.027
+        },
+        "sequence_10": {
+            "pattern": [
+                "RX (0)",
+                "RZ (0)",
+                "RY (0)"
+            ],
+            "frequency_absolut": 38,
+            "frequency_relative": 0.027
+        },
+        "sequence_11": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 37,
+            "frequency_relative": 0.0263
+        },
+        "sequence_12": {
+            "pattern": [
+                "RZ (0)",
+                "RX (0)",
+                "RY (0)"
+            ],
+            "frequency_absolut": 37,
+            "frequency_relative": 0.0263
+        },
+        "sequence_13": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 35,
+            "frequency_relative": 0.0249
+        },
+        "sequence_14": {
+            "pattern": [
+                "RZ (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 35,
+            "frequency_relative": 0.0249
+        },
+        "sequence_15": {
+            "pattern": [
+                "RY (1)",
+                "RZ (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 33,
+            "frequency_relative": 0.0235
+        },
+        "sequence_16": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 32,
+            "frequency_relative": 0.0228
+        },
+        "sequence_17": {
+            "pattern": [
+                "RZ (0)",
+                "RY (0)",
+                "RX (0)"
+            ],
+            "frequency_absolut": 32,
+            "frequency_relative": 0.0228
+        },
+        "sequence_18": {
+            "pattern": [
+                "RY (1)",
+                "CNOT (1, 0)",
+                "RX (0)"
+            ],
+            "frequency_absolut": 29,
+            "frequency_relative": 0.0206
+        },
+        "sequence_19": {
+            "pattern": [
+                "RY (1)",
+                "RZ (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 29,
+            "frequency_relative": 0.0206
+        },
+        "sequence_20": {
+            "pattern": [
+                "RZ (0)",
+                "CNOT (0, 1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 28,
+            "frequency_relative": 0.0199
+        }
+    },
+    "sequence_length_4": {
+        "sequence_1": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RZ (1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 18,
+            "frequency_relative": 0.0409
+        },
+        "sequence_2": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RZ (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 12,
+            "frequency_relative": 0.0273
+        },
+        "sequence_3": {
+            "pattern": [
+                "CNOT (0, 1)",
+                "RY (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 10,
+            "frequency_relative": 0.0227
+        },
+        "sequence_4": {
+            "pattern": [
+                "RY (1)",
+                "RX (1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 10,
+            "frequency_relative": 0.0227
+        },
+        "sequence_5": {
+            "pattern": [
+                "RZ (1)",
+                "RY (1)",
+                "RX (1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 8,
+            "frequency_relative": 0.0182
+        },
+        "sequence_6": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 8,
+            "frequency_relative": 0.0182
+        },
+        "sequence_7": {
+            "pattern": [
+                "RZ (0)",
+                "CNOT (0, 1)",
+                "RZ (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_8": {
+            "pattern": [
+                "RZ (0)",
+                "CNOT (0, 1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_9": {
+            "pattern": [
+                "RY (0)",
+                "RX (0)",
+                "CNOT (0, 1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_10": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "CNOT (1, 0)",
+                "RX (0)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_11": {
+            "pattern": [
+                "RY (1)",
+                "RZ (1)",
+                "RX (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_12": {
+            "pattern": [
+                "RX (1)",
+                "RZ (1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_13": {
+            "pattern": [
+                "RZ (1)",
+                "RX (1)",
+                "RY (1)",
+                "RZ (1)"
+            ],
+            "frequency_absolut": 7,
+            "frequency_relative": 0.0159
+        },
+        "sequence_14": {
+            "pattern": [
+                "RY (0)",
+                "CNOT (0, 1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_15": {
+            "pattern": [
+                "RX (0)",
+                "CNOT (0, 1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_16": {
+            "pattern": [
+                "RY (0)",
+                "CNOT (0, 1)",
+                "RX (1)",
+                "RY (1)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_17": {
+            "pattern": [
+                "RZ (0)",
+                "CNOT (0, 1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_18": {
+            "pattern": [
+                "RX (0)",
+                "CNOT (0, 1)",
+                "RY (1)",
+                "RX (1)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_19": {
+            "pattern": [
+                "RX (1)",
+                "RY (1)",
+                "RX (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        },
+        "sequence_20": {
+            "pattern": [
+                "RY (1)",
+                "RX (1)",
+                "RY (1)",
+                "CNOT (1, 0)"
+            ],
+            "frequency_absolut": 6,
+            "frequency_relative": 0.0136
+        }
+    }
+}

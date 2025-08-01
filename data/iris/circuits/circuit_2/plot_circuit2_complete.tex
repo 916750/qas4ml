@@ -1,0 +1,25 @@
+\documentclass[tikz,border=2mm]{standalone}
+\usepackage{quantikz}
+\begin{document}
+
+\tikzset{
+operator/.append style={minimum width=2.0cm}
+}
+
+\begin{quantikz}
+\lstick{$\ket{q_{0}}$} 
+    & \gate[2]{\shortstack{Amplitude\\Encoding}} 
+    & \ctrl{1}\gategroup[2,steps=4,style={dashed,rounded corners,fill=blue!20,inner xsep=7pt},background,label style={label position=below,anchor=north,yshift=-0.2cm}]{{RL-QAS PQC}}
+    & \gate{R_Z(1.19)} 
+    & \gate{R_Y(1.04)}
+    & \gate{R_X(0.44)} 
+    & \meter{}\\
+\lstick{$\ket{q_{1}}$}                                           
+    &                   
+    & \targ{}
+    & \gate{R_Z(-1.31)} 
+    & \gate{R_Y(-1.26)}
+    &               
+    & \meter{}\
+\end{quantikz}
+\end{document}
